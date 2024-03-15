@@ -1,0 +1,126 @@
+==================http1======================
+-------------Running iteration 1--------------
+http1.1---100KB: .907707415 seconds
+http1.1---1MB: 26.784401081 seconds
+http1.1---5MB: 135.968768383 seconds
+http1.1---small: .899684746 seconds
+http1.1---medium: 3.008180836 seconds
+http1.1---large: 5.225008423 seconds
+-----------------------------------------------
+-------------Running iteration 2--------------
+http1.1---100KB: .882342007 seconds
+http1.1---1MB: 23.052066144 seconds
+http1.1---5MB: 127.194248619 seconds
+http1.1---small: .882016712 seconds
+http1.1---medium: 1.283167229 seconds
+http1.1---large: 6.422240475 seconds
+-----------------------------------------------
+-------------Running iteration 3--------------
+http1.1---100KB: .872469880 seconds
+http1.1---1MB: 34.326497087 seconds
+http1.1---5MB: 97.193932903 seconds
+http1.1---small: .870403383 seconds
+http1.1---medium: 2.115774701 seconds
+http1.1---large: 2.153398493 seconds
+-----------------------------------------------
+-------------Running iteration 4--------------
+http1.1---100KB: .899096751 seconds
+http1.1---1MB: 24.232283044 seconds
+http1.1---5MB: 124.441374093 seconds
+http1.1---small: .879624955 seconds
+http1.1---medium: 3.064024431 seconds
+http1.1---large: 2.542660712 seconds
+-----------------------------------------------
+-------------Running iteration 5--------------
+http1.1---100KB: .881584634 seconds
+http1.1---1MB: 23.630919284 seconds
+http1.1---5MB: 121.686923409 seconds
+http1.1---small: .883813690 seconds
+http1.1---medium: 2.041124246 seconds
+http1.1---large: 6.435011776 seconds
+-----------------------------------------------
+=============================================
+==================http2======================
+-------------Running iteration 1--------------
+http2---100KB: 3.542239980 seconds
+http2---1MB: 28.787057906 seconds
+http2---5MB: 129.378665985 seconds
+http2---small: .838508737 seconds
+http2---medium: 2.340419402 seconds
+http2---large: 2.078784762 seconds
+-----------------------------------------------
+-------------Running iteration 2--------------
+http2---100KB: 3.276547890 seconds
+http2---1MB: 18.382518992 seconds
+http2---5MB: 123.991672825 seconds
+http2---small: .830014981 seconds
+http2---medium: 1.294506891 seconds
+http2---large: 9.856246046 seconds
+-----------------------------------------------
+-------------Running iteration 3--------------
+http2---100KB: 1.670859141 seconds
+http2---1MB: 33.594644055 seconds
+http2---5MB: 105.238686698 seconds
+http2---small: .834738548 seconds
+http2---medium: 2.786738845 seconds
+http2---large: 2.267872533 seconds
+-----------------------------------------------
+-------------Running iteration 4--------------
+http2---100KB: 6.418236702 seconds
+http2---1MB: 23.595726963 seconds
+http2---5MB: 120.205633537 seconds
+http2---small: .838960450 seconds
+http2---medium: 2.486819033 seconds
+http2---large: 10.600993236 seconds
+-----------------------------------------------
+-------------Running iteration 5--------------
+http2---100KB: 1.463930115 seconds
+http2---1MB: 32.078732168 seconds
+http2---5MB: 130.403084785 seconds
+http2---small: .849379804 seconds
+http2---medium: 2.320962283 seconds
+http2---large: 2.917236627 seconds
+-----------------------------------------------
+=============================================
+==================http3======================
+-------------Running iteration 1--------------
+http3---100KB: 1.587050266 seconds
+http3---1MB: 11.346495630 seconds
+http3---5MB: 44.776519198 seconds
+http3---small: 1.303304367 seconds
+http3---medium: 1.587825913 seconds
+http3---large: 2.707794535 seconds
+-----------------------------------------------
+-------------Running iteration 2--------------
+http3---100KB: 1.341190720 seconds
+http3---1MB: 10.917109720 seconds
+http3---5MB: 44.458809982 seconds
+http3---small: 1.434485570 seconds
+http3---medium: 1.600388076 seconds
+http3---large: 3.994851718 seconds
+-----------------------------------------------
+-------------Running iteration 3--------------
+http3---100KB: 1.879170925 seconds
+http3---1MB: 10.071111425 seconds
+http3---5MB: 43.945524357 seconds
+http3---small: 1.386921488 seconds
+http3---medium: 2.217674699 seconds
+http3---large: 3.336731999 seconds
+-----------------------------------------------
+-------------Running iteration 4--------------
+http3---100KB: 1.926438341 seconds
+http3---1MB: 10.184064946 seconds
+http3---5MB: 43.392165551 seconds
+http3---small: 2.579840626 seconds
+http3---medium: 1.479113272 seconds
+http3---large: 2.523757782 seconds
+-----------------------------------------------
+-------------Running iteration 5--------------
+http3---100KB: 1.830295828 seconds
+http3---1MB: 10.945074924 seconds
+http3---5MB: 43.809287605 seconds
+http3---small: 2.051568365 seconds
+http3---medium: 1.774299080 seconds
+http3---large: 2.582341011 seconds
+-----------------------------------------------
+=============================================

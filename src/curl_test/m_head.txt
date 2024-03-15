@@ -1,0 +1,180 @@
+===================http1====================
+HTTP/1.1 200 OK
+Server: nginx/1.25.2
+Date: Thu, 07 Dec 2023 12:15:46 GMT
+Content-Type: image/png
+Content-Length: 98763
+Last-Modified: Mon, 23 Oct 2023 07:53:25 GMT
+Connection: keep-alive
+ETag: "65362675-181cb"
+Accept-Ranges: bytes
+
+HTTP/1.1 200 OK
+Server: nginx/1.25.2
+Date: Thu, 07 Dec 2023 12:15:48 GMT
+Content-Type: image/png
+Content-Length: 1128358
+Last-Modified: Mon, 23 Oct 2023 07:53:22 GMT
+Connection: keep-alive
+ETag: "65362672-1137a6"
+Accept-Ranges: bytes
+
+HTTP/1.1 200 OK
+Server: nginx/1.25.2
+Date: Thu, 07 Dec 2023 12:15:49 GMT
+Content-Type: image/jpeg
+Content-Length: 5048759
+Last-Modified: Mon, 23 Oct 2023 07:53:25 GMT
+Connection: keep-alive
+ETag: "65362675-4d09b7"
+Accept-Ranges: bytes
+
+HTTP/1.1 200 OK
+Server: nginx/1.25.2
+Date: Thu, 07 Dec 2023 12:15:50 GMT
+Content-Type: text/html
+Content-Length: 5885
+Last-Modified: Mon, 23 Oct 2023 08:02:38 GMT
+Connection: keep-alive
+ETag: "6536289e-16fd"
+Accept-Ranges: bytes
+
+HTTP/1.1 200 OK
+Server: nginx/1.25.2
+Date: Thu, 07 Dec 2023 12:15:51 GMT
+Content-Type: text/html
+Content-Length: 92550
+Last-Modified: Mon, 23 Oct 2023 07:55:47 GMT
+Connection: keep-alive
+ETag: "65362703-16986"
+Accept-Ranges: bytes
+
+HTTP/1.1 200 OK
+Server: nginx/1.25.2
+Date: Thu, 07 Dec 2023 12:15:53 GMT
+Content-Type: text/html
+Content-Length: 229404
+Last-Modified: Mon, 23 Oct 2023 08:12:02 GMT
+Connection: keep-alive
+ETag: "65362ad2-3801c"
+Accept-Ranges: bytes
+
+============================================
+===================http2====================
+HTTP/2 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:15:54 GMT
+content-type: image/png
+content-length: 98763
+last-modified: Mon, 23 Oct 2023 07:53:25 GMT
+etag: "65362675-181cb"
+accept-ranges: bytes
+
+HTTP/2 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:15:55 GMT
+content-type: image/png
+content-length: 1128358
+last-modified: Mon, 23 Oct 2023 07:53:22 GMT
+etag: "65362672-1137a6"
+accept-ranges: bytes
+
+HTTP/2 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:15:56 GMT
+content-type: image/jpeg
+content-length: 5048759
+last-modified: Mon, 23 Oct 2023 07:53:25 GMT
+etag: "65362675-4d09b7"
+accept-ranges: bytes
+
+HTTP/2 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:15:56 GMT
+content-type: text/html
+content-length: 5885
+last-modified: Mon, 23 Oct 2023 08:02:38 GMT
+etag: "6536289e-16fd"
+accept-ranges: bytes
+
+HTTP/2 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:15:57 GMT
+content-type: text/html
+content-length: 92550
+last-modified: Mon, 23 Oct 2023 07:55:47 GMT
+etag: "65362703-16986"
+accept-ranges: bytes
+
+HTTP/2 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:15:58 GMT
+content-type: text/html
+content-length: 229404
+last-modified: Mon, 23 Oct 2023 08:12:02 GMT
+etag: "65362ad2-3801c"
+accept-ranges: bytes
+
+============================================
+===================http3====================
+HTTP/3 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:15:59 GMT
+content-type: image/png
+content-length: 98763
+last-modified: Mon, 23 Oct 2023 07:53:25 GMT
+etag: "65362675-181cb"
+alt-svc: h3=":8443"; ma=86400
+accept-ranges: bytes
+
+HTTP/3 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:16:01 GMT
+content-type: image/png
+content-length: 1128358
+last-modified: Mon, 23 Oct 2023 07:53:22 GMT
+etag: "65362672-1137a6"
+alt-svc: h3=":8443"; ma=86400
+accept-ranges: bytes
+
+HTTP/3 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:16:02 GMT
+content-type: image/jpeg
+content-length: 5048759
+last-modified: Mon, 23 Oct 2023 07:53:25 GMT
+etag: "65362675-4d09b7"
+alt-svc: h3=":8443"; ma=86400
+accept-ranges: bytes
+
+HTTP/3 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:16:03 GMT
+content-type: text/html
+content-length: 5885
+last-modified: Mon, 23 Oct 2023 08:02:38 GMT
+etag: "6536289e-16fd"
+alt-svc: h3=":8443"; ma=86400
+accept-ranges: bytes
+
+HTTP/3 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:16:04 GMT
+content-type: text/html
+content-length: 92550
+last-modified: Mon, 23 Oct 2023 07:55:47 GMT
+etag: "65362703-16986"
+alt-svc: h3=":8443"; ma=86400
+accept-ranges: bytes
+
+HTTP/3 200 
+server: nginx/1.25.2
+date: Thu, 07 Dec 2023 12:16:05 GMT
+content-type: text/html
+content-length: 229404
+last-modified: Mon, 23 Oct 2023 08:12:02 GMT
+etag: "65362ad2-3801c"
+alt-svc: h3=":8443"; ma=86400
+accept-ranges: bytes
+
+============================================
